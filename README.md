@@ -1,2 +1,2 @@
 # Line-Integrals-involving-Vector-Field
-This project focuses on the Endurance spaceship's path near a black hole and the work done by the gravitational field. The project includes MATLAB code and visualizations to support the analysis, providing a clear summary of the spaceship's journey and the forces involved using MATLAB.
+This project involves analyzing line integrals in vector fields, focusing on the path and work performed by the gravitational field on the Endurance spaceship as it navigates near a black hole. The code is structured into two main sections: an analysis of the spaceship's path and a detailed calculation of the work exerted by the gravitational field. It is supported by MATLAB code and visualizations.
